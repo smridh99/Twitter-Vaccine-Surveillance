@@ -1,5 +1,5 @@
 # Twitter-Vaccine-Surveillance
-Created a Twitter-based vaccine hesitancy surveillance system (Using Tweepy)
+Created a Twitter-based vaccine hesitancy surveillance system (Using Tweepy) and NLTK machine learning Model
 
 The underlying idea is that by monitoring the number of tweets that describe vaccine hesitancy issues or related consequences it is possible to monitor trends at the Provence- or Country-level. This is particularly important given the current need to vaccinate a large portion of the Canadian population to protect against COVID-19.
 
@@ -52,7 +52,7 @@ Using the following code in file: <a> href="https://github.com/smridh99/Twitter-
 
 PHASE 3
 
-Created an actual surveillance system coded in python file called <a href="https://github.com/smridh99/Twitter-Vaccine-Surveillance/blob/main/twitter_surveillance.py">twitter_surveillance.py</a>
+Created an actual surveillance system coded using NLTK / SCIKIT package called <a href="https://github.com/smridh99/Twitter-Vaccine-Surveillance/blob/main/twitter_surveillance.py">twitter_surveillance.py</a>
 
 1. loads a trained classifier from file called <a href="https://github.com/smridh99/Twitter-Vaccine-Surveillance/blob/main/twitter_classifier.pkl">twitter_classifier.pkl </a>
 
