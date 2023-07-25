@@ -8,8 +8,8 @@ The Project had two phases:
 2) Developing the surveillance system
 
 
-PHASE 1
-
+**PHASE 1
+**
 
 Using Tweepy after setting up an API keys from Twitter Developers account to collect both short and long tweets: to create a large pool of training dataset.
 
