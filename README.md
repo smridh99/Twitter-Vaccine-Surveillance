@@ -16,7 +16,7 @@ PHASE 1
 
 Using Tweepy after setting up an API keys from Twitter Developers account to collect both short and long tweets: to create a large pool of training dataset.
 
-For this task, we made a function called <a href: "https://github.com/smridh99/Twitter-Vaccine-Surveillance/blob/main/twitter_streaming.py">twitter_streaming</a>.
+For this task, we made a function called <a href= "https://github.com/smridh99/Twitter-Vaccine-Surveillance/blob/main/twitter_streaming.py">twitter_streaming</a>.
 
 
 
