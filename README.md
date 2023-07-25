@@ -54,16 +54,15 @@ PHASE 3
 
 Created an actual surveillance system coded in python file called <a href="https://github.com/smridh99/Twitter-Vaccine-Surveillance/blob/main/twitter_surveillance.py">twitter_surveillance.py</a>
 
--> loads a trained classifier from file called <a href="https://github.com/smridh99/Twitter-Vaccine-Surveillance/blob/main/twitter_classifier.pkl">twitter_classifier.pkl </a>
+1. loads a trained classifier from file called <a href="https://github.com/smridh99/Twitter-Vaccine-Surveillance/blob/main/twitter_classifier.pkl">twitter_classifier.pkl </a>
+
+2. Reads tweets file named <a href="https://github.com/smridh99/Twitter-Vaccine-Surveillance/blob/main/tweets.txt">tweets.txt</a> and calssify each one as either positive or negative
 
 
--> Reads tweets file named <a href="https://github.com/smridh99/Twitter-Vaccine-Surveillance/blob/main/tweets.txt">tweets.txt</a> and calssify each one as either positive or negative
+3. Assign each tweet corressponding lables and store them in different file called <a href="https://github.com/smridh99/Twitter-Vaccine-Surveillance/blob/main/labels.txt">labels.txt</a>
 
 
--> Assign each tweet corressponding lables and store them in different file called <a href="https://github.com/smridh99/Twitter-Vaccine-Surveillance/blob/main/labels.txt">labels.txt</a>
-
-
--> Save a plot of daily percentages of positive tweets to a file called plot.png
+4. Save a plot of daily percentages of positive tweets to a file called plot.png
 
 
 
