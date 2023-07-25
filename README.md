@@ -62,8 +62,8 @@ Created an actual surveillance system coded in python file called <a href="https
 3. Assign each tweet corressponding lables and store them in different file called <a href="https://github.com/smridh99/Twitter-Vaccine-Surveillance/blob/main/labels.txt">labels.txt</a>
 
 
-4. Save a plot of daily percentages of positive tweets to a file called plot.png
+4. Save a plot of daily percentages of positive tweets to a file called plot.png which looks something like this:
 
-
+   ![plot](https://github.com/smridh99/Twitter-Vaccine-Surveillance/assets/62080745/baad2c2a-fde9-4f86-9cd9-6ef7c3ee91d7)
 
 
