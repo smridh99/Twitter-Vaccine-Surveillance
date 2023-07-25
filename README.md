@@ -34,7 +34,7 @@ Labelled the collected tweets with TWO possible labels:
 POSITIVE, when the tweet is deemed related to vaccine hesitancy, and 
 NEGATIVE when the tweet is deemed to be not related.
 
-Refered to the codebook <a href="https://www. ncbi.nlm.nih.gov/pmc/articles/PMC6004971/.">Blankenship et. al (2018)</a> to establish ground truth definition for our dataset:
+Refered to the codebook <a href="[https://www. ncbi.nlm.nih.gov/pmc/articles/PMC6004971/.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6004971/)">Blankenship et. al (2018)</a> to establish ground truth definition for our dataset:
 
 1. Pro-vaccine, e.g. “Equine #Influenza #Vaccine Remains Effective Against Mutated Virus Study Shows - TheHorse.com : http://bit.ly/c4eRWu”
    
