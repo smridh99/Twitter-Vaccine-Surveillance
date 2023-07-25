@@ -16,9 +16,9 @@ PHASE 1
 
 Using Tweepy after setting up an API keys from Twitter Developers account to collect both short and long tweets: to create a large pool of training dataset.
 
-For this task, Tweettagger class was created to facilitate the collectio and labelling.
+For this task, we made a function called twitter_streaming.
 
-{Insert code file link here}
+
 
 ONCE ENOUGH TWEETS HAVE BEEN CAPTURES, STOP THE CODE (cmd + c)
 
