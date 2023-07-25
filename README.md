@@ -22,6 +22,8 @@ For this task, we made a function called <a href= "https://github.com/smridh99/T
 
 ONCE ENOUGH TWEETS HAVE BEEN CAPTURES, STOP THE CODE (cmd + c)
 
+The end results is a file containing all the vaccine hesitancy related tweets in desired format. <a href="https://github.com/smridh99/Twitter-Vaccine-Surveillance/blob/main/tweets.txt">tweets.txt</a>
+
 
 
 
@@ -34,7 +36,7 @@ Labelled the collected tweets with TWO possible labels:
 POSITIVE, when the tweet is deemed related to vaccine hesitancy, and 
 NEGATIVE when the tweet is deemed to be not related.
 
-Refered to the codebook <a href="[https://www. ncbi.nlm.nih.gov/pmc/articles/PMC6004971/.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6004971/)">Blankenship et. al (2018)</a> to establish ground truth definition for our dataset:
+Refered to the codebook <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6004971/">Blankenship et. al (2018)</a> to establish ground truth definition for our dataset:
 
 1. Pro-vaccine, e.g. “Equine #Influenza #Vaccine Remains Effective Against Mutated Virus Study Shows - TheHorse.com : http://bit.ly/c4eRWu”
    
@@ -45,14 +47,16 @@ Refered to the codebook <a href="[https://www. ncbi.nlm.nih.gov/pmc/articles/PMC
 Pro-vaccine and Neutral tweets: 'NEGATIVE'
 Anti-vaccine tweets: 'POSITIVE'
 
+Using the following code in file: <a> href="https://github.com/smridh99/Twitter-Vaccine-Surveillance/blob/main/TweetTagger.py">TweetTagger</a>, we label our tweets dataset. A new file called <a href="https://github.com/smridh99/Twitter-Vaccine-Surveillance/blob/main/labels.txt">labels.txt</a> is created
+
 
 PHASE 3
 
-Created an actual surveillance system coded in python file called twitter_surveillance.py
+Created an actual surveillance system coded in python file called <a href="https://github.com/smridh99/Twitter-Vaccine-Surveillance/blob/main/twitter_surveillance.py">twitter_surveillance.py</a>
 
--> loads a trained classifier from file called twitter_classifier.pkl
--> Reads tweets file named tweets.txt and calssify each one as either positive or negative
--> Assign each tweet corressponding lables and store them in different file called labels.txt
+-> loads a trained classifier from file called <a href="https://github.com/smridh99/Twitter-Vaccine-Surveillance/blob/main/twitter_classifier.pkl">twitter_classifier.pkl </a>
+-> Reads tweets file named <a href="https://github.com/smridh99/Twitter-Vaccine-Surveillance/blob/main/tweets.txt">tweets.txt</a> and calssify each one as either positive or negative
+-> Assign each tweet corressponding lables and store them in different file called <a href="https://github.com/smridh99/Twitter-Vaccine-Surveillance/blob/main/labels.txt">labels.txt</a>
 -> Save a plot of daily percentages of positive tweets to a file called plot.png
 
 
